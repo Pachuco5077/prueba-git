@@ -1,0 +1,9 @@
+dir -- muestra los archivos de la carpeta
+md mkdir -- para crear una carpeta
+cls -- para limpiar la consola
+cd -- para acceder a una carpeta
+cd.. -- para ir a la carpeta anterior
+move <archivo.extension> <rutaDestino> -- para mover un archivo
+CTRL + C -- para terminar una ejecucion
+pwd -- para saber la ruta q estamos (solo en PowerShell)
+ni -- para crear archivos (solo en PowerShell)
