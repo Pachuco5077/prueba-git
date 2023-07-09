@@ -7,3 +7,12 @@ move <archivo.extension> <rutaDestino> -- para mover un archivo
 CTRL + C -- para terminar una ejecucion
 pwd -- para saber la ruta q estamos (solo en PowerShell)
 ni -- para crear archivos (solo en PowerShell)
+
+
+Comandos en Git
+git init -- para iniciar el git
+git status -s -- para ver el estado de los archivos
+git add . -- para annadir todos los archivos a la cajita
+git commit -m "<nombre>" -- para etiquetar la cajita
+git log --oneline -- para ver las etiquetas de las cajas
+
