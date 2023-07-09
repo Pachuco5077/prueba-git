@@ -16,3 +16,5 @@ git add . -- para annadir todos los archivos a la cajita
 git commit -m "<nombre>" -- para etiquetar la cajita
 git log --oneline -- para ver las etiquetas de las cajas
 
+esto es una prueba de texto no necesario
+
