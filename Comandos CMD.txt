@@ -17,3 +17,6 @@ git commit -m "<nombre>" -- para etiquetar la cajita
 git log --oneline -- para ver las etiquetas de las cajas
 
 esto es una prueba de texto no necesariaa
+
+
+aqui estoy poniendo cosas nuevas para test++++
