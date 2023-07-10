@@ -16,6 +16,7 @@ git add . -- para annadir todos los archivos a la cajita
 git commit -m "<nombre>" -- para etiquetar la cajita
 git log --oneline -- para ver las etiquetas de las cajas
 git push --  para subir el repo a github
+git remote -v -- para ver la direccion donde esta puesta la web nuestra
 
 esto es una prueba de texto no necesariaa
 
