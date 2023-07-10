@@ -1,0 +1,4 @@
+Credenciales Git
+
+user= pachu
+email= pachuco5077@gmail.com
