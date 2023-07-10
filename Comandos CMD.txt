@@ -15,6 +15,7 @@ git status -s -- para ver el estado de los archivos
 git add . -- para annadir todos los archivos a la cajita
 git commit -m "<nombre>" -- para etiquetar la cajita
 git log --oneline -- para ver las etiquetas de las cajas
+git push --  para subir el repo a github
 
 esto es una prueba de texto no necesariaa
 
