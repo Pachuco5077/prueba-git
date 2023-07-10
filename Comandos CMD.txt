@@ -17,6 +17,7 @@ git commit -m "<nombre>" -- para etiquetar la cajita
 git log --oneline -- para ver las etiquetas de las cajas
 git push --  para subir el repo a github
 git remote -v -- para ver la direccion donde esta puesta la web nuestra
+git checkout <a75a8f3> --  para revisar el proyecto en este espacio de tiempo
 
 esto es una prueba de texto no necesariaa
 
